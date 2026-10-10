@@ -8,6 +8,7 @@ project:
     - "!posts/"
   resources:
     - ".nojekyll"
+    - "CNAME"
 
 # Meta
 description-meta: "Personal website of Dr. Kate Lonergan, postdoctoral researcher at Uppsala University"
