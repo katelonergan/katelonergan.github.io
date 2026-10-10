@@ -1,0 +1,90 @@
+---
+title: "Kate Lonergan, Postdoc"
+description-meta: "Personal website of Dr. Kate Lonergan, postdoctoral researcher at Uppsala University"
+image: "files/images/profile.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    # - icon: sun
+    #   text: Lab
+    #   href: https://www.github.com
+    #   target: _blank
+    - icon: globe
+      text: UU profile
+      href: https://www.uu.se/en/contact-and-organisation/staff?query=N16-2082
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:kate.lonergan@uu.se 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kate-lonergan-39783627
+      target: _blank
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com     
+    #   target: _blank 
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: https://orcid.org/0000-0003-4587-8477
+      target: _blank
+    # - text: "{{< ai clarivate >}} Web of Science"
+    #   href: https://www.webofscience.com  
+    #   target: _blank
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com
+    #   target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=Lz0J-OkAAAAJ&hl=en
+      target: _blank
+#    - text: "{{< ai researchgate >}} Research Gate"
+#      href: https://www.researchgate.net
+#      target: _blank
+
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+# - id: recent-posts
+#   contents:
+#     - posts
+#     - posts/post-links.yml
+#   exclude:
+#     title: ""
+#   type: grid
+#   max-items: 3
+#    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
+---
+
+::: {#hero-heading}
+
+# Welcome to my personal website
+
+I'm a Postdoc at the [Uppsala Center for Holocaust and Genocide Studies](https://www.uu.se/en/centre/uppsala-centre-for-holocaust-and-genocide-studies) at [Uppsala University](https://www.uu.se/en) in Sweden. My research focuses on the legacies of civil war and mass violence, with a special focus on everyday reconciliation, transitional justice, and peacebuilding.
+
+I received my PhD from the [Department of Peace and Conflict Research](https://www.uu.se/en/department/peace-and-conflict-research) at Uppsala University in 2023 for my dissertation [Roads to Repair: Extraordinary and Everyday Pathways to Reconciliation after Civil War](https://uu.diva-portal.org/smash/get/diva2:1795697/FULLTEXT01.pdf).
+
+My research has been published in journals such as [Civil Wars](https://doi.org/10.1080/13698249.2025.2581540), [Global Studies Quarterly](https://doi.org/10.1093/isagsq/ksaf068), [Third World Quarterly](https://doi.org/10.1080/01436597.2023.2250727), and [PLOS One](https://doi.org/10.1371/journal.pone.0303023). My most recent article, [Reconciling Rebel Rule: Wartime Order and the Social Legacies of Rebel Governance in Sri Lanka](https://doi.org/10.1080/13698249.2025.2581540), shows how civilians' experiences of rebel governance during the war shape what they want in order to reconcile with a victorious state.
+
+I am the principal investigator of the research project [Why Victim Movements Work](victim-movements.qmd), funded by the Swedish Research Council for 2027–2029. The project examines why some movements of victims of war and mass atrocity are more successful than others in winning truth, accountability, and recognition.
+
+I have previously worked with the United States Institute of Peace on reconciliation and atrocity prevention, with the World Bank on justice and development issues, and conducted research on community reintegration of ex-combatants in northern Uganda. I have also worked with community conflict resolution and restorative justice initiatives in the Washington D.C. area.
+
+<!-- ## Experience -->
+
+<!-- -   Researcher, Univerisity -->
+
+<!-- ## Education -->
+
+<!-- -   PhD, Univerisity -->
+
+:::

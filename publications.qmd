@@ -1,0 +1,91 @@
+---
+title: "Publications"
+description-meta: "Information, pdfs, and social metrics of papers"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+css: custom.css
+---
+
+## Peer-reviewed journal articles
+
+[{{< fa solid file-lines >}}]{.text-success .me-1 .align-middle} **Kate Lonergan** (2026) [Reconciling Rebel Rule: Wartime Order and the Social Legacies of Rebel Governance in Sri Lanka](https://doi.org/10.1080/13698249.2025.2581540). *Civil Wars*, online first.
+
+What do Tamil civilians want in order to reconcile with a victorious state, and what underlying narratives shape these demands? This article demonstrates that the social legacies of rebel governance matter for post-war reconciliation between citizens and the state. Tamils in northern Sri Lanka – regardless of past wartime governance experience – prioritise transitional justice and inclusive service delivery as signs of citizen-state reconciliation. However, those who lived under consolidated LTTE institutions during the war emphasise mutual respect through a reciprocal social contract with the state, while those who lived under Sri Lankan military control emphasise acknowledgement of past harms.
+
+[PDF](https://www.tandfonline.com/doi/epdf/10.1080/13698249.2025.2581540?needAccess=true){.btn .btn-outline-success .btn-sm role="button"}
+
+:::{.border-top .my-4 .opacity-25}
+:::
+
+[{{< fa solid file-lines >}}]{.text-success .me-1 .align-middle} **Kate Lonergan** (2025) [Everyday Reconciliation: Horizontal and Vertical Dimensions of Relational Repair in the Aftermath of Violence](https://doi.org/10.1093/isagsq/ksaf068). *Global Studies Quarterly* 5(3): ksaf068.
+
+Reconciling across the social and relational divisions which persist in everyday life is a vital component of building sustained peace after armed conflict and mass violence. While everyday peace has received considerable attention within existing scholarship, everyday reconciliation has not been developed as a concept in its own right. In this paper I develop the idea of everyday reconciliation, which involves ordinary and routine practices that build positive, mutually respectful relations across conflict divisions at multiple levels. I propose a novel framework to study everyday reconciliation, which captures variation across two key dimensions of relational repair: the social position of the actors engaged in reconciling (elites/ordinary people) and the axis along which reconciliation takes place (horizontal/vertical). The framework differentiates between three distinct types of everyday reconciliation: (1) elite everyday reconciliation, building horizontal relationships between elite actors; (2) grassroots everyday reconciliation, building horizontal relationships between ordinary people; and (3) vertical everyday reconciliation, building relationships across divisions between elites and ordinary people. The framework allows observers to disaggregate between whom and how everyday reconciliation varies, and highlights new dimensions of everyday reconciliation. Developing a more robust conceptualization of everyday reconciliation sheds light on previously overlooked ways in which societies navigate relational divisions arising from a violent past.
+
+[PDF](https://academic.oup.com/isagsq/article-pdf/5/3/ksaf068/64000301/ksaf068.pdf){.btn .btn-outline-success .btn-sm role="button"}
+
+:::{.border-top .my-4 .opacity-25}
+:::
+
+[{{< fa solid file-lines >}}]{.text-success .me-1 .align-middle} Karen Brounéus, Erika Forsberg, Prakash Bhattarai, Neloufer de Mel, **Kate Lonergan**, Pradeep Peiris, Pawan Roy, Gameela Samarasinghe & Maneesha Wanasinghe-Pasqual (2024) [Women, Peace and Insecurity: The Risks of Peacebuilding in Everyday Life for Women in Sri Lanka and Nepal](https://doi.org/10.1371/journal.pone.0303023). *PLOS One* 19(5): e0303023.
+
+Truth telling processes, initiatives to prosecute war-time perpetrators, and ex-combatant reintegration are examples of common peacebuilding practices after war. Yet, little is known of how women are affected by peacebuilding initiatives such as these, or how they perceive these initiatives for peace. For many women, peace after war does not bring peace to everyday life; research shows that domestic violence increases during and after war. In addition, some peacebuilding measures have been found to increase risk and insecurity, not least for women. To better understand the interconnections between gender and post-conflict attitudes to peacebuilding, we asked 2,041 women and men in Sri Lanka and Nepal of their views on post-war peace initiatives. In line with our expectations, we find that women are more skeptical than men towards peacebuilding measures that involve increased risk in everyday life, such as truth-telling and coexisting with former adversaries and warring groups reintegrating in local communities. There are no gender differences pertaining to peacebuilding initiatives that take place far away at the national level, for example, concerning accountability or, in the case of Nepal, the peace agreement. Our findings suggest that international peacebuilding practice is blind to the everyday insecurities of women after war. That a basic gendered lens is missing from most peacebuilding designs is both alarming and deeply troubling, but identifying this critical aspect provides the opportunity for imperative change. By shedding light on the challenges women face after war, we hope this article contributes to finding ways to mitigate unknown and unintended side-effects of peacebuilding efforts, and thereby to the development of better, evidence-based peacebuilding practice–of benefit to both men and women.
+
+[PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0303023&type=printable){.btn .btn-outline-success .btn-sm role="button"} [Supplementary material](https://doi.org/10.1371/journal.pone.0303023.s001){.btn .btn-outline-success .btn-sm role="button"} [Sri Lanka questionnaire](https://doi.org/10.1371/journal.pone.0303023.s002){.btn .btn-outline-success .btn-sm role="button"} [Nepal questionnaire](https://doi.org/10.1371/journal.pone.0303023.s003){.btn .btn-outline-success .btn-sm role="button"} [Sri Lanka data](https://doi.org/10.1371/journal.pone.0303023.s005){.btn .btn-outline-success .btn-sm role="button"} [Nepal data](https://doi.org/10.1371/journal.pone.0303023.s006){.btn .btn-outline-success .btn-sm role="button"} 
+
+:::{.border-top .my-4 .opacity-25}
+:::
+
+[{{< fa solid file-lines >}}]{.text-success .me-1 .align-middle} Karen Brounéus, Erika Forsberg, Kristine Höglund & **Kate Lonergan** (2024) [The Burden of War Widows: Gendered Consequences of War and Peace-Building in Sri Lanka](https://doi.org/10.1080/01436597.2023.2250727). *Third World Quarterly* 45(3): 458–474.
+
+Research shows that war affects various groups of survivors differently, yet the severe consequences faced by war widows are often overlooked. Combining insights from fieldwork in Sri Lanka with secondary sources, we conclude that the time is ripe for the daunting challenges of war widows to be brought into the limelight. We argue that widowhood after war is conditioned both by the post-war context and society’s gendered constructions. The social expectations that follow pose ­exceptional trials in everyday life for war widows globally. As an important case and illustrative example, we analyse Sri Lanka: a decade ago emerging from civil war; today, in dire need of economic and political transformation. We demonstrate how war widows are caught in the crossfire of demographic change, post-war insecurities, economic hardship, and gender discriminating norms and traditions. This unseen group of survivors play a critical role for the prospects for economic, social and political development in the transition from war to peace, in Sri Lanka and beyond. We conclude by calling for a concerted effort wherein research and policy come together to outline a new research and policy agenda with the aim of lessening the burden of war widows.
+
+[PDF](https://www.tandfonline.com/doi/epdf/10.1080/01436597.2023.2250727?needAccess=true){.btn .btn-outline-success .btn-sm role="button"} [Supplementary material](https://www.tandfonline.com/action/downloadSupplement?doi=10.1080%2F01436597.2023.2250727&file=ctwq_a_2250727_sm4490.pdf){.btn .btn-outline-success .btn-sm role="button"} 
+
+:::{.border-top .my-4 .opacity-25}
+:::
+
+[{{< fa solid file-lines >}}]{.text-success .me-1 .align-middle} Ibrahim Bangura, **Kate Lonergan** & Anders Themnér (2023) [Patrimonial Truth-Telling: Why Truth Commissions Leave Victim and Ex-Combatant Participants Aggrieved](https://doi.org/10.1080/17502977.2023.2187135). *Journal of Intervention and Statebuilding* 17(4): 371–393.
+
+There is a growing awareness that truth commissions (TCs) often leave victim and ex-combatant participants aggrieved. This is problematic since it can undermine support for peace processes. When attempting to explain such shortcomings, previous research has not paid sufficient attention to the patrimonial sources of TC-participants’ frustration. We argue that such forms of disenchantment are largely caused by internationalised TCs’ patrimonial mode of working, utilising tactics such as motorcades as manifestations of power and brokers to mobilise witnesses. To highlight the relevance of our argument, we use the work of the Sierra Leone Truth and Reconciliation Commission as an example.
+
+[PDF](https://www.tandfonline.com/doi/epdf/10.1080/17502977.2023.2187135?needAccess=true){.btn .btn-outline-success .btn-sm role="button"}
+
+## Reports
+
+[{{< fa solid file-lines >}}]{.text-success .me-1 .align-middle} Johan Brosché, Sebastian Raattamaa & **Kate Lonergan** (2025) [What Are They Fighting For? An Issue-based Approach to the Analysis and Resolution of Civil War](https://eba.se/rapporter/what-are-they-fighting-for/22363/). Stockholm: *The Expert Group for Aid Studies*, Report 2025:01.
+
+The more core conflict issues a peace treaty following civil war includes, the higher the chance peace will hold over time. This study, based on new data, argues that conflict issues ought to be given more attention in peace building.
+
+[PDF](https://eba.se/wp-content/uploads/2025/06/EBA-2025-01-What-are-they-fighting-for-TGA-1.pdf){.btn .btn-outline-success .btn-sm role="button"}
+
+## Op-eds
+
+[{{< fa solid feather-pointed >}}]{.text-success .me-1 .align-middle} Sebastian van Baalen, Armend Bekaj, Caroline Brandt, Johan Brosché, Karen Brounéus, Annekatrin Deglow, Stefan Döring, Hanne Fjelde, Erika Forsberg, Jonathan Hall, Sophia Hatz, Lisa Hultman, Kristine Höglund, Karin Johansson, Kyungmee Kim, Sara Lindberg Bromley, **Kate Lonergan**, Desirée Nilsson, David Randahl, Thorsten Rogall, Margareta Sollenberg, Isak Svensson, Ashok Swain & Magnus Öberg (2024, December 24) [DN Debatt: Sverige måste återuppta sitt arbete för fred på jorden](https://www.dn.se/debatt/sverige-maste-ateruppta-sitt-arbete-for-fred-pa-jorden/). *Dagens Nyheter*.
+
+## Working papers
+
+<!-- MOCK WORKING PAPERS: the three entries below are placeholders. Replace titles, co-authors, and abstracts before publishing. -->
+
+[{{< fa solid file-pen >}}]{.text-success .me-1 .align-middle} **Kate Lonergan** (2026) Why Victim Movements Work: A Comparative Research Agenda. Working paper.
+
+Victims of war and mass atrocity often organize to demand truth, accountability, and recognition, yet little research explains why some victim movements win concessions while others do not. This paper outlines a comparative research agenda on victim movements, documents core dimensions of variation across movements, and proposes four mechanisms through which movements attain their stated objectives: guilting, shaming, persuasion, and pressure.
+
+:::{.border-top .my-4 .opacity-25}
+:::
+
+[{{< fa solid file-pen >}}]{.text-success .me-1 .align-middle} **Kate Lonergan** & Sebastian van Baalen (2026) Introducing the Victim Movements (V-Move) Dataset. Working paper.
+
+This paper introduces a new global dataset on victim movements during and after armed conflict in 1989–2025. The dataset records each movement's stated objectives, targets, tactics, and allies, as well as the progress made toward each objective. We describe key patterns and trends in what victim movements demand and to what extent they realize their ambitions.
+
+:::{.border-top .my-4 .opacity-25}
+:::
+
+[{{< fa solid file-pen >}}]{.text-success .me-1 .align-middle} **Kate Lonergan** (2026) Measuring Everyday Reconciliation: Evidence from Community-Generated Indicators in Sri Lanka. Working paper.
+
+How do ordinary people recognize reconciliation in their daily lives? Drawing on community-generated indicators from villages in Sri Lanka, this paper develops a bottom-up approach to measuring everyday reconciliation and compares it with conventional survey-based measures. The findings show that locally defined signs of reconciliation diverge from the benchmarks commonly used in peacebuilding practice.
+
+::: {.alert .alert-info .alert-dismissible .fade .show .mb-3 role="alert"}
+If you are interested in some of my ongoing work, don't hesitate to reach out!
+<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+:::

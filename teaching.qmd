@@ -1,0 +1,9 @@
+---
+title: "Teaching"
+description-meta: "Teaching and educational leadership"
+title-block-banner: false
+---
+
+I am the Deputy Director of Studies at the [Uppsala Centre for Holocaust and Genocide Studies](https://www.uu.se/en/centre/uppsala-centre-for-holocaust-and-genocide-studies) at Uppsala University.
+
+I teach on topics such as quantitative and qualitative research methods, transitional justice, reconciliation, peace building, and conflict resolution.

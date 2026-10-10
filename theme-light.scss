@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+// Warm off-white page background (matches the edges of the project image)
+$body-bg: #fcf9f5;
+$body-color: #33413f;
+$headings-color: #22302e;
+
+// Green accent colour, same as the menu bar
+$primary: #2aa198;
+$success: #2aa198;
+$link-color: #1d7d76;
+
+// White text on the green menu bar
+$navbar-fg: #ffffff;
+$navbar-hl: #e3f4f1;
+
+/*-- scss:rules --*/
+
+.nav-footer {
+  color: #6b7775;
+}

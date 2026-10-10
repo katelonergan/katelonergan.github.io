@@ -1,0 +1,25 @@
+---
+title: "Contact"
+description-meta: "Reach out to me with questions and comments"
+title-block-banner: false
+---
+
+### Uppsala Centre for Holocaust and Genocide Studies
+
+Postdoctoral researcher, Department of History
+
+[{{< fa solid envelope >}}]{.text-success .me-1} **E-mail:** [kate.lonergan@uu.se](mailto:kate.lonergan@uu.se)
+
+[{{< fa solid location-dot >}}]{.text-success .me-1} **Visiting address:**\
+Engelska parken, Thunbergsvägen 3B, 1 tr\
+Uppsala
+
+[{{< fa solid inbox >}}]{.text-success .me-1} **Postal address:**\
+Box 521\
+751 20 Uppsala\
+Sweden
+
+:::{.border-top .my-4 .opacity-25}
+:::
+
+You can also find me on my [Uppsala University staff page](https://www.uu.se/en/contact-and-organisation/staff?query=N16-2082).
